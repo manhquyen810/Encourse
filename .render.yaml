@@ -10,7 +10,7 @@ services:
       - key: APP_DEBUG
         value: false
       - key: APP_KEY
-        sync: base64:jcRRPg2smmHgWNW3Qz0bX8KDlya4dcAQxZUEc2mMpUQ=base64:qgPAcmOD7utL5w360qAIdRjP+hP6gcX9ErpFWvpJIys= 
+        sync: base64:9Zklg3chLhJJ+Bu8VZz6xMSVp+jt4oVZvXwV54Drtx0= 
       - key: DB_CONNECTION
         value: pgsql
       - key: DB_HOST
