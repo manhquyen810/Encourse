@@ -14,12 +14,12 @@ services:
       - key: DB_CONNECTION
         value: pgsql
       - key: DB_HOST
-        value: encourse
+        value: dpg-d1hqadruibrs73fnrnug-a
       - key: DB_PORT
         value: 5432
       - key: DB_DATABASE
-        value: Encourses
+        value: encourses
       - key: DB_USERNAME
-        value: postgres
+        value: encourses_user
       - key: DB_PASSWORD
-        value: 123456
+        value: 1DjyXUsc4FE9ScWI0iEo2m1e8e6o2xr9
